@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "705299776332",
+    "project_id": "saloni-d6e44",
+    "storage_bucket": "saloni-d6e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705299776332:android:aa408cc87322a93073c5e9",
+        "android_client_info": {
+          "package_name": "com.flutterflow.toytrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705299776332-l952n9ou8a5gj4a5vdnqth5v29rs9f1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPg6pS4FHn2YVocsrPP-gB9vKbzYwJs2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705299776332-l952n9ou8a5gj4a5vdnqth5v29rs9f1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705299776332-776glquk3oncpjveqhrovn7468htp6af.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.toytrader"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
